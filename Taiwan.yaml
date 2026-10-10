@@ -1,0 +1,12 @@
+# 内容：Clash规则 台湾流媒体专用
+# UPDATED: 2026-10-10 11:10:19
+payload:
+  - DOMAIN-SUFFIX,litv.tv
+  - DOMAIN-SUFFIX,hinet.net
+  - DOMAIN-SUFFIX,4gtv.tv
+  - DOMAIN-SUFFIX,api2.4gtv.tv
+  - DOMAIN-SUFFIX,ofiii.com
+  - IP-CIDR,123.51.231.132/32
+  - IP-CIDR,60.250.121.103/32
+  - DOMAIN-KEYWORD,ofiii
+  - DOMAIN-KEYWORD,hinet
