@@ -9,10 +9,7 @@ DOMAIN-SUFFIX,newtvsuper.com
 DOMAIN-SUFFIX,goiptv.us.ci
 DOMAIN-SUFFIX,diver.eu.org
 DOMAIN-SUFFIX,goiptv.de5.net
-DOMAIN,mytvsuperlimited.hb.omtrdc.net
-DOMAIN,mytvsuperlimited.sc.omtrdc.net
 DOMAIN-SUFFIX,mytvsuper.com
-DOMAIN-SUFFIX,tvb.com
 DOMAIN-SUFFIX,passwd.bond
 IP-CIDR,109.66.22.5/32
 IP-CIDR,222.85.198.92/32
