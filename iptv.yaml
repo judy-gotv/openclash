@@ -1,0 +1,19 @@
+# 内容：Clash规则  IPTV专用
+# UPDATED: 2026-10-10 11:10:19
+
+payload:
+  - DOMAIN-KEYWORD,nowtv100
+  - DOMAIN-KEYWORD,rthklive
+  - DOMAIN-KEYWORD,koyeb
+  - DOMAIN-SUFFIX,pixman.us.ci
+  - DOMAIN-SUFFIX,mpd.cc.cd
+  - DOMAIN-SUFFIX,852851.xyz
+  - DOMAIN-SUFFIX,newtvsuper.com
+  - DOMAIN-SUFFIX,goiptv.us.ci
+  - DOMAIN-SUFFIX,diver.eu.org
+  - DOMAIN-SUFFIX,goiptv.de5.net
+  - DOMAIN-SUFFIX,mytvsuper.com
+  - DOMAIN-SUFFIX,passwd.bond
+  - IP-CIDR,109.66.22.5/32
+  - IP-CIDR,222.85.198.92/32
+  - IP-CIDR,89.187.179.148/32
